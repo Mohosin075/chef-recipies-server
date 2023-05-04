@@ -1,8 +1,9 @@
 [
     {
       "id": 1,
+      "author": "Bob Johnson",
       "experience": "2-4 years",
-      "img": "https://example.com/recipe1.jpg",
+      "img": "https://images.pexels.com/photos/8092494/pexels-photo-8092494.jpeg?auto=compress&cs=tinysrgb&w=600",
       "likes": 100,
       "numberOfRecipy": 4,
       "name": "Spicy Chicken Stir Fry",
@@ -38,15 +39,16 @@
     },
     {
       "id": 2,
+      "author": "Jane Smith",
       "experience": "2-4 years",
-      "img": "https://example.com/recipe2.jpg",
+      "img": "https://images.pexels.com/photos/14811401/pexels-photo-14811401.jpeg?auto=compress&cs=tinysrgb&w=600",
       "likes": 75,
       "numberOfRecipy": 6,
       "name": "Baked Salmon with Lemon and Dill",
       "details": [
         {
           "title": "Ingredients",
-          "description": "This recipe serves 6 and requires the following ingredients:",
+          "description": "This recipe serves 6 and requires the following ingredients: This mouth-watering chicken tikka masala recipe is easy to make and is sure to be a crowd-pleaser. Tender pieces of chicken are marinated in a spiced yogurt mixture, then grilled and simmered in a rich tomato-based sauce. Serve with steamed rice or naan bread for a delicious and satisfying meal.",
           "ingredients": [
             "6 salmon fillets",
             "3 tbsp olive oil",
@@ -70,15 +72,16 @@
     },
     {
       "id": 3,
+      "author": "Alice Lee",
       "experience": "2-4 years",
-      "img": "https://example.com/recipe4.jpg",
+      "img": "https://images.pexels.com/photos/2670327/pexels-photo-2670327.jpeg?auto=compress&cs=tinysrgb&w=600",
       "likes": 90,
       "numberOfRecipy": 2,
       "name": "Beef and Broccoli Stir Fry",
       "details": [
         {
           "title": "Ingredients",
-          "description": "This recipe serves 2 and requires the following ingredients:",
+          "description": "This recipe serves 2 and requires the following ingredients: These fluffy pancakes are the perfect breakfast treat. They're easy to make and can be customized with your favorite toppings, such as fresh berries or whipped cream. Serve with a side of crispy bacon or sausage for a delicious start to your day.",
           "ingredients": [
             "250g flank steak, sliced thinly",
             "2 cups broccoli florets",
@@ -106,15 +109,16 @@
     },
     {
       "id": 4,
+      "author": "David Kim",
       "experience": "2-4 years",
-      "img": "https://example.com/recipe5.jpg",
+      "img": "https://images.pexels.com/photos/4253312/pexels-photo-4253312.jpeg?auto=compress&cs=tinysrgb&w=600",
       "likes": 120,
       "numberOfRecipy": 1,
       "name": "Roasted Vegetable Lasagna",
       "details": [
         {
           "title": "Ingredients",
-          "description": "This recipe serves 1 and requires the following ingredients:",
+          "description": "This recipe serves 1 and requires the following ingredients: These flavorful tacos are loaded with grilled shrimp, fresh salsa, and a zesty lime crema. They're perfect for a casual dinner with friends, and can be customized with your favorite toppings, such as avocado or cilantro.",
           "ingredients": [
             "1 red bell pepper, sliced",
             "1 yellow bell pepper, sliced",
@@ -147,15 +151,16 @@
     },
     {
       "id": 5,
+      "author": "Sarah Chen",
       "experience": "4-6 years",
-      "img": "https://example.com/recipe6.jpg",
+      "img": "https://images.pexels.com/photos/6578899/pexels-photo-6578899.jpeg?auto=compress&cs=tinysrgb&w=600",
       "likes": 75,
       "numberOfRecipy": 3,
       "name": "Chicken Parmesan",
       "details": [
         {
           "title": "Ingredients",
-          "description": "This recipe serves 3 and requires the following ingredients:",
+          "description": "This recipe serves 3 and requires the following ingredients: This classic spaghetti and meatballs recipe is a crowd-pleaser. The meatballs are made with ground beef and pork, and are seasoned with garlic and Italian herbs for extra flavor. Serve with a side of garlic bread and a simple salad for a delicious and satisfying meal.",
           "ingredients": [
             "3 boneless, skinless chicken breasts",
             "1/2 cup all-purpose flour",
@@ -182,15 +187,16 @@
     },
     {
       "id": 6,
+      "author": "Karen Davis",
       "experience": "4-6 years",
-      "img": "https://example.com/recipe7.jpg",
+      "img": "https://images.pexels.com/photos/3771106/pexels-photo-3771106.jpeg?auto=compress&cs=tinysrgb&w=600",
       "likes": 100,
       "numberOfRecipy": 1,
       "name": "Spaghetti Carbonara",
       "details": [
         {
           "title": "Ingredients",
-          "description": "This recipe serves 1 and requires the following ingredients:",
+          "description": "This recipe serves 1 and requires the following ingredients: This comforting beef stew is the perfect cold-weather meal. It's made with tender beef, root vegetables, and a rich broth that's flavored with red wine and herbs. Serve with a side of crusty bread for a satisfying meal.",
           "ingredients": [
             "4 oz spaghetti",
             "2 slices bacon, diced",
