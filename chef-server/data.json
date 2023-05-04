@@ -1,0 +1,217 @@
+[
+    {
+      "id": 1,
+      "experience": "2-4 years",
+      "img": "https://example.com/recipe1.jpg",
+      "likes": 100,
+      "numberOfRecipy": 4,
+      "name": "Spicy Chicken Stir Fry",
+      "details": [
+        {
+          "title": "Ingredients",
+          "description": "This recipe serves 4 and requires the following ingredients:",
+          "ingredients": [
+            "500g boneless chicken breast, cut into strips",
+            "2 red bell peppers, sliced",
+            "1 yellow onion, sliced",
+            "2 cloves garlic, minced",
+            "1 inch ginger, grated",
+            "3 tbsp vegetable oil",
+            "1 tbsp soy sauce",
+            "1 tbsp hoisin sauce",
+            "1 tbsp chili garlic sauce",
+            "1/2 tsp black pepper",
+            "2 scallions, sliced",
+            "Sesame seeds, for garnish"
+          ],
+          "method": [
+            "In a bowl, whisk together soy sauce, hoisin sauce, chili garlic sauce, and black pepper.",
+            "Heat vegetable oil in a wok or large skillet over high heat. Add chicken and stir-fry for 2-3 minutes, until lightly browned.",
+            "Add garlic and ginger, and stir-fry for another 30 seconds.",
+            "Add peppers and onion, and stir-fry for 2-3 minutes, until they start to soften.",
+            "Pour the sauce over the chicken and vegetables, and stir-fry for another minute or until everything is coated in the sauce.",
+            "Garnish with scallions and sesame seeds, and serve hot with rice."
+          ],
+          "rating": 4.8
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "experience": "2-4 years",
+      "img": "https://example.com/recipe2.jpg",
+      "likes": 75,
+      "numberOfRecipy": 6,
+      "name": "Baked Salmon with Lemon and Dill",
+      "details": [
+        {
+          "title": "Ingredients",
+          "description": "This recipe serves 6 and requires the following ingredients:",
+          "ingredients": [
+            "6 salmon fillets",
+            "3 tbsp olive oil",
+            "3 tbsp lemon juice",
+            "1 tbsp honey",
+            "2 tbsp fresh dill, chopped",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "Lemon wedges, for garnish"
+          ],
+          "method": [
+            "Preheat oven to 375°F (190°C).",
+            "In a small bowl, whisk together olive oil, lemon juice, honey, dill, salt, and pepper.",
+            "Place salmon fillets in a baking dish and pour the sauce over them, making sure to coat evenly.",
+            "Bake for 15-20 minutes, until salmon is cooked through and flakes easily with a fork.",
+            "Garnish with lemon wedges and serve hot."
+          ],
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "experience": "2-4 years",
+      "img": "https://example.com/recipe4.jpg",
+      "likes": 90,
+      "numberOfRecipy": 2,
+      "name": "Beef and Broccoli Stir Fry",
+      "details": [
+        {
+          "title": "Ingredients",
+          "description": "This recipe serves 2 and requires the following ingredients:",
+          "ingredients": [
+            "250g flank steak, sliced thinly",
+            "2 cups broccoli florets",
+            "2 cloves garlic, minced",
+            "1 inch ginger, grated",
+            "3 tbsp vegetable oil",
+            "1 tbsp soy sauce",
+            "1 tbsp oyster sauce",
+            "1 tbsp cornstarch",
+            "1/4 cup water",
+            "Salt and pepper to taste",
+            "Cooked rice, for serving"
+          ],
+          "method": [
+            "In a small bowl, whisk together soy sauce, oyster sauce, cornstarch, water, and a pinch of salt.",
+            "Heat vegetable oil in a wok or large skillet over high heat. Add beef and stir-fry for 2-3 minutes, until browned.",
+            "Add garlic and ginger, and stir-fry for another 30 seconds.",
+            "Add broccoli and stir-fry for 2-3 minutes, until it starts to soften.",
+            "Pour the sauce over the beef and broccoli, and stir-fry for another minute or until everything is coated in the sauce.",
+            "Serve hot with rice."
+          ],
+          "rating": 4.3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "experience": "2-4 years",
+      "img": "https://example.com/recipe5.jpg",
+      "likes": 120,
+      "numberOfRecipy": 1,
+      "name": "Roasted Vegetable Lasagna",
+      "details": [
+        {
+          "title": "Ingredients",
+          "description": "This recipe serves 1 and requires the following ingredients:",
+          "ingredients": [
+            "1 red bell pepper, sliced",
+            "1 yellow bell pepper, sliced",
+            "1 zucchini, sliced",
+            "1 eggplant, sliced",
+            "1 onion, sliced",
+            "4 cloves garlic, minced",
+            "3 tbsp olive oil",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "1 jar (24oz) marinara sauce",
+            "9 lasagna noodles, cooked",
+            "3 cups shredded mozzarella cheese",
+            "1 cup ricotta cheese",
+            "1/2 cup grated parmesan cheese"
+          ],
+          "method": [
+            "Preheat oven to 375°F (190°C).",
+            "In a large bowl, toss together bell peppers, zucchini, eggplant, onion, garlic, olive oil, salt, and pepper.",
+            "Spread the vegetables out on a baking sheet and roast for 25-30 minutes, until they are tender and lightly browned.",
+            "In a 9x13 inch baking dish, spread a thin layer of marinara sauce on the bottom.",
+            "Top with 3 lasagna noodles, followed by a layer of roasted vegetables, a layer of mozzarella cheese, and a layer of ricotta cheese.",
+            "Repeat layers of noodles, vegetables, and cheeses until all ingredients are used up.",
+            "Top with a final layer of marinara sauce and sprinkle with parmesan cheese.",
+            "Cover with foil and bake for 30 minutes. Remove the foil and bake for another 15"
+          ],
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "experience": "4-6 years",
+      "img": "https://example.com/recipe6.jpg",
+      "likes": 75,
+      "numberOfRecipy": 3,
+      "name": "Chicken Parmesan",
+      "details": [
+        {
+          "title": "Ingredients",
+          "description": "This recipe serves 3 and requires the following ingredients:",
+          "ingredients": [
+            "3 boneless, skinless chicken breasts",
+            "1/2 cup all-purpose flour",
+            "2 eggs, beaten",
+            "1 1/2 cups seasoned breadcrumbs",
+            "1/2 cup grated parmesan cheese",
+            "2 cups marinara sauce",
+            "1 1/2 cups shredded mozzarella cheese",
+            "1/4 cup chopped fresh basil"
+          ],
+          "method": [
+            "Preheat oven to 400°F (200°C).",
+            "Place flour, eggs, and breadcrumbs mixed with parmesan cheese into separate shallow bowls.",
+            "Dredge chicken in flour, shaking off excess, then dip in beaten eggs and coat with breadcrumb mixture.",
+            "Place breaded chicken on a baking sheet lined with parchment paper, and bake for 20 minutes, until golden brown and cooked through.",
+            "In a small saucepan, heat marinara sauce over medium heat until heated through.",
+            "Remove chicken from oven and top each breast with 1/3 cup marinara sauce, 1/2 cup shredded mozzarella cheese, and a sprinkle of chopped basil.",
+            "Return to oven and bake for another 10 minutes, until cheese is melted and bubbly.",
+            "Serve hot with pasta or a side salad."
+          ],
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "experience": "4-6 years",
+      "img": "https://example.com/recipe7.jpg",
+      "likes": 100,
+      "numberOfRecipy": 1,
+      "name": "Spaghetti Carbonara",
+      "details": [
+        {
+          "title": "Ingredients",
+          "description": "This recipe serves 1 and requires the following ingredients:",
+          "ingredients": [
+            "4 oz spaghetti",
+            "2 slices bacon, diced",
+            "1 clove garlic, minced",
+            "1 egg",
+            "1/4 cup grated parmesan cheese",
+            "1/4 cup heavy cream",
+            "Salt and pepper to taste"
+          ],
+          "method": [
+            "Cook spaghetti according to package instructions.",
+            "While spaghetti is cooking, cook bacon in a large skillet over medium heat until crisp.",
+            "Add garlic to the skillet and sauté for another minute.",
+            "In a small bowl, whisk together egg, parmesan cheese, heavy cream, salt, and pepper.",
+            "Drain spaghetti and add it to the skillet with the bacon and garlic. Remove skillet from heat.",
+            "Pour the egg mixture over the spaghetti and toss everything together until the pasta is coated in the sauce and the egg is cooked through.",
+            "Serve hot, garnished with additional parmesan cheese and black pepper if desired."
+          ],
+          "rating": 4.7
+        }
+      ]
+    }
+  ]
+  
