@@ -76,7 +76,7 @@
       "experience": "2-4 years",
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBXdEc1LYw_p88i_Mv2JXhBtwEZBH3l7SVGA&usqp=CAU",
       "likes": 90,
-      "numberOfRecipy": 2,
+      "numberOfRecipy": 10,
       "name": "Beef and Broccoli Stir Fry",
       "details": [
         {
@@ -113,7 +113,7 @@
       "experience": "2-4 years",
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLV07xLTRzXVK1LwD5UDDbGAulvMz0Gtq3Bw&usqp=CAU",
       "likes": 120,
-      "numberOfRecipy": 1,
+      "numberOfRecipy": 11,
       "name": "Roasted Vegetable Lasagna",
       "details": [
         {
@@ -155,7 +155,7 @@
       "experience": "4-6 years",
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXr07QHQf5MaaLPspPgQPlso6rPTQJ3wuS9g&usqp=CAU",
       "likes": 75,
-      "numberOfRecipy": 3,
+      "numberOfRecipy": 23,
       "name": "Chicken Parmesan",
       "details": [
         {
@@ -191,7 +191,7 @@
       "experience": "4-6 years",
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7y-9Fz9xrNPfnujseaatG_thOBr8cXFJTuA&usqp=CAU",
       "likes": 100,
-      "numberOfRecipy": 1,
+      "numberOfRecipy": 9,
       "name": "Spaghetti Carbonara",
       "details": [
         {
