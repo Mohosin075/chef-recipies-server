@@ -7,6 +7,7 @@ const cors = require('cors')
 app.use(cors())
 
 const data = require('./data.json');
+const popular = require('./popular.json');
 
 // app.get("/", (req, res) => {
 //   res.send("Server is running!");
@@ -14,6 +15,9 @@ const data = require('./data.json');
 
 app.get('/', (req, res)=>{
     res.send(data)
+})
+app.get('/popular', (req, res)=>{
+    res.send(popular)
 })
 
 app.get('/:id', (req, res)=>{

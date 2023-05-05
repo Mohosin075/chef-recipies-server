@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "img": "https://www.mexicanplease.com/wp-content/uploads/2023/03/Creamy-Poblano-Enchiladas-5-320x321.jpg",
+      "title": "Classic Spaghetti Carbonara"
+    },
+    {
+      "id": 2,
+      "img": "https://www.mexicanplease.com/wp-content/uploads/2023/03/Breakfast-Burrito-Bowls-11-320x321.jpg",
+      "title": "Beef Stroganoff"
+    },
+    {
+      "id": 3,
+      "img": "https://www.mexicanplease.com/wp-content/uploads/2023/03/Creamy-Chipotle-Chicken-17-320x321.jpg",
+      "title": "Chicken Tikka Masala"
+    },
+    {
+      "id": 4,
+      "img": "https://www.mexicanplease.com/wp-content/uploads/2023/02/Quick-Ground-Beef-Bowl-9-320x321.jpg",
+      "title": "Pad Thai"
+    },
+    {
+      "id": 5,
+      "img": "https://www.mexicanplease.com/wp-content/uploads/2023/01/Quick-Vegetarian-Stuffed-Poblano-6-320x321.jpg",
+      "title": "Tacos al Pastor"
+    },
+    {
+      "id": 6,
+      "img": "https://www.mexicanplease.com/wp-content/uploads/2022/12/Easy-Mexican-Beans-and-Rice-Soup-5-320x321.jpg",
+      "title": "Chicken Tikka Masala"
+    },
+    {
+      "id": 7,
+      "img": "https://www.mexicanplease.com/wp-content/uploads/2022/11/Charro-Bean-Tostadas-8-320x321.jpg",
+      "title": "Pad Thai"
+    },
+    {
+      "id": 8,
+      "img": "https://www.mexicanplease.com/wp-content/uploads/2022/10/mexican-ground-beef-recipes-taco-salad-320x321.jpg",
+      "title": "Tacos al Pastor"
+    }
+  ]
